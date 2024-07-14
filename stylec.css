@@ -1,0 +1,70 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.header-one{
+    background-color: black;
+    color:white;
+    padding:20px;
+    padding-top: 10px;
+}
+
+.title{
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.desc{
+    font-size:20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+}
+.anchor{
+    background-color: orangered;
+    color:white;
+    text-decoration: none;
+    margin-top: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.information{
+    background-color:antiquewhite;
+}
+
+.name{
+    font-size: 20px;
+}
+.email{
+    font-size: 20px;
+}
+
+.message{
+    font-size: 20px;
+}
+
+.n{
+    padding-bottom: 10px;
+}
+.e{
+    padding-bottom: 10px;
+}
+
+.m{
+    padding-bottom: 10px;
+}
+.sugg{
+    background-color: black;
+    color:white;
+    margin-top: 100px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
+.symbol{
+    margin-top: 5px;
+}
